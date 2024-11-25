@@ -1,0 +1,5 @@
+
+
+class NotAnswers(Exception):
+    pass
+
